@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-image:url("pic.jpg");
+    background: cover;
+    
+}
+.header{
+    color: white;
+    margin-top: 80px;
+
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.lbox{
+    background-color: black;
+    color: brown;
+    margin: 50px;
+    padding :50px ;
+    height: 50px;
+
+}
+.rbox{
+    background-color: black;
+    color: brown;
+    margin: 50px;
+    padding :50px ;
+    height: 50px;
+
+}
+.one{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(20, 214, 65);
+    border:none;
+
+}
+.bbox{
+    margin:0PX 30px 0PX 30px;
+}
+.wbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
